@@ -1,6 +1,6 @@
 package com.example.proiectsp;
 
-class Paragraph {
+class Paragraph implements Element{
     private String text;
 
     public Paragraph(String text) {

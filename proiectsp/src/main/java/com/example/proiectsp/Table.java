@@ -1,6 +1,6 @@
 package com.example.proiectsp;
 
-class Table {
+class Table implements Element{
     private String title;
 
     public Table(String title) {

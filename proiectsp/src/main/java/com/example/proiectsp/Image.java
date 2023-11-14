@@ -1,6 +1,6 @@
 package com.example.proiectsp;
 
-class Image {
+class Image implements Element{
     private String imageName;
 
     public Image(String imageName) {

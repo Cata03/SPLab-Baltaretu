@@ -1,7 +1,15 @@
 package com.example.proiectsp;
 
+import java.util.List;
+
 class TableOfContents {
+    private List<Element> elements;
+    public void addElement(Element element) {
+        elements.add(element);
+    }
     public void print() {
-        System.out.println("Table of Contents");
+        for (Element element : elements) {
+            element.print();
+        }
     }
 }
