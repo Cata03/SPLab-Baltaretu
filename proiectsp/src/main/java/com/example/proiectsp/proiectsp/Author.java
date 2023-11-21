@@ -1,4 +1,4 @@
-package com.example.proiectsp;
+package proiectsp;
 
 public class Author {
     private String name;

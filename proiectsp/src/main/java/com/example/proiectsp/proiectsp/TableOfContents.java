@@ -1,4 +1,4 @@
-package com.example.proiectsp;
+package proiectsp;
 
 import java.util.List;
 

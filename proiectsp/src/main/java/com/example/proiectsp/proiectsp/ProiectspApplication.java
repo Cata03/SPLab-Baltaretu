@@ -1,4 +1,4 @@
-package com.example.proiectsp;
+/*package proiectsp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -11,3 +11,4 @@ public class ProiectspApplication {
 	}
 
 }
+*/

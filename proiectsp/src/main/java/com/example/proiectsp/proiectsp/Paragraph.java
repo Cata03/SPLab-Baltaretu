@@ -1,4 +1,4 @@
-package com.example.proiectsp;
+package proiectsp;
 
 class Paragraph implements Element{
     private String text;

@@ -1,4 +1,4 @@
-package com.example.proiectsp;
+package proiectsp;
 
 class Table implements Element{
     private String title;
